@@ -10,28 +10,30 @@ This repository contains my handwritten notes covering various foundational and 
 ---
 
 ## 📚 Table of Contents
-# DBMS_NOTES(ZIP FILE)
+# DBMS_NOTES
 
-1. [Introduction]
-2. [Database Management Architecture]
-3. [Entity-Relationship (ER) Model]
-4. [Extended ER Model]
-5. [ER Diagram]
-6. [Relational Model]
-7. [ER Model to Relational Model Mapping]
-8. [Normalization]
-9. [ACID Properties]
-10. [BASE Properties]
-11. [Indexing]
-12. [NoSQL Databases]
-13. [Types of Databases]
-14. [Clustering and Partitioning]
-15. [CAP Theorem]
-16. [Master-Slave Database Architecture]
+1. [Introduction](./DBMS-NOTES/1_Introduction.pdf)
+2. [Database Management Architecture](./DBMS-NOTES/2_DBM_Architecture.pdf)
+3. [Entity-Relationship (ER) Model](./DBMS-NOTES/3_ER_Model.pdf)
+4. [Extended ER Model](./DBMS-NOTES/4_Extended_ER_Model.pdf)
+5. [ER Diagram](./DBMS-NOTES/5_ER_Diagram.pdf)
+6. [Relational Model](./DBMS-NOTES/6_Relational_Model.pdf)
+7. [ER Model to Relational Model Mapping](./DBMS-NOTES/7_ER_Model_to_Relational_Model.pdf)
+8. [Normalization](./DBMS-NOTES/8_Normalization.pdf)
+9. [ACID Properties](./DBMS-NOTES/9_ACID_Property.pdf)
+10. [BASE Properties](./DBMS-NOTES/10_BASE_Property.pdf)
+11. [Indexing](./DBMS-NOTES/11_Indexing.pdf)
+12. [NoSQL Databases](./DBMS-NOTES/12_NO-SQL.pdf)
+13. [Types of Databases](./DBMS-NOTES/13_Types_of_Database.pdf)
+14. [Clustering and Partitioning](./DBMS-NOTES/14_Clustering_and_Partitioning.pdf)
+15. [CAP Theorem](./DBMS-NOTES/15_Cap_Theorem.pdf)
+16. [Master-Slave Database Architecture](./DBMS-NOTES/16_Master-slave_database.pdf)
 
-# MYSQL (ZIP FILE)
+# MYSQL
 All query of the MYSQL language.
 
+#Leetcode question
+It contains more than 75 top SQL questions asked by the companies.
 ---
 
 ## 🌟 Highlights
