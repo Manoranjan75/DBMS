@@ -97,6 +97,6 @@ Feel free to reach out if you have any questions or feedback!
 
 - **Email**: [manoranjan87000@gmail.com](mailto:manoranjan87000@gmail.com)
 - **GitHub**: [Manoranjan75](https://github.com/Manoranjan75)
-- **LinkedIn**: [Manoranjan75](www.linkedin.com/in/manoranjan75)
+- **LinkedIn**: [Manoranjan75](https://www.linkedin.com/in/manoranjan-kumar-57b1a723b/)
 
 ---
