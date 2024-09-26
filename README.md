@@ -32,8 +32,9 @@ This repository contains my handwritten notes covering various foundational and 
 # MYSQL
 All query of the MYSQL language.
 
-#Leetcode question
+# Leetcode question
 It contains more than 75 top SQL questions asked by the companies.
+
 ---
 
 ## 🌟 Highlights
